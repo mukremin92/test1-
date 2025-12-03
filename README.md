@@ -46,9 +46,9 @@ Kendi posta kutunuzdaki son e-postaları denemek için `imap_runner.py` komut sa
 
 2. Oluşan `.env` dosyasını bir metin düzenleyiciyle açın ve her satırı doldurun:
 
-   - `IMAP_HOST`: Sağlayıcınızın IMAP sunucusu (ör. Gmail için `imap.gmail.com`).
-   - `IMAP_USER`: Tam e‑posta adresiniz.
-   - `IMAP_PASSWORD`: Tercihen uygulama şifreniz.
+   - `IMAP_HOST`: imap.gmail.com
+   - `IMAP_USER`: mukremint9@gmail.com
+   - `IMAP_PASSWORD`: 263832321
 
 3. Dosyayı kaydedin. Bu dosya **yalnızca yerel kalmalı**; depoya veya paylaşılan ortamlara eklemeyin.
 
